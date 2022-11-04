@@ -1,0 +1,27 @@
+{
+    "name": "Ethw",
+    "website": "https://uniwlabs.com",
+    "description": "Building the safest and most scalable Layer 1 pow blockchain.",
+    "explorer": "https://uniwscan.com",
+    "symbol": "ETHW",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/uniwswap"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/uniwswap"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/ru/currencies/ethpow/"
+        }
+    ]
+}
